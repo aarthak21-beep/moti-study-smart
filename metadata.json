@@ -1,0 +1,6 @@
+{
+  "name": "Moti Study Smart",
+  "description": "Mobile-first education app for School, 11th-12th, College & Competitive Exam students with multilingual courses in Marathi, Hindi & English, YouTube lectures, PDF notes, MCQ quizzes, and premium subscription.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
